@@ -1,0 +1,7 @@
+name: Glitterblog!
+url: glittergallery.github.io/blog
+description: Gitterblog!
+author: GlitterGallery
+markdown: kramdown
+pygments: true
+timezone: Asia/Kolkata
